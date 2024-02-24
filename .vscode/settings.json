@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Developer\\C\\bin\\gcc.exe",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "ECO.C": "cpp"
+    }
+}
