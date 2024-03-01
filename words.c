@@ -3,7 +3,7 @@
   #include <stdio.h>
   int main()
   {
-    int i ; 
+    int i ;    
     printf("Pless Enter Numbar :");
     scanf("%d",&i); 
       
